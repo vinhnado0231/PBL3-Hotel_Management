@@ -1,0 +1,284 @@
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\PBL3.exe.config
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\PBL3.exe
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\PBL3.pdb
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.exe
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.pdb
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.formDSKH.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\RJTextBox.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\RJTextBox.pdb
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.LoginForm.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.exe.licenses
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.QLNguoiDung.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3._mainForm.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\DropMenu.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\DropMenu.pdb
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\DropMenu.dll.config
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.formBaoCaoKH.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.formChangePass.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.formKhachDoan.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.formManageLostStuff.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.formPrintBill.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.formThanhToanDatPhong.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\obj\Debug\PBL3.VIEW._formHome.resources
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Room.dll
+E:\Kì 4\PBL3\Pbl\PBL3\PBL3\bin\Debug\Room.pdb
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\DropMenu.pdb
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\DropMenu.dll.config
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\RJTextBox.pdb
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\Room.pdb
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formDSKH.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formBaoCaoKH.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formChangePass.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formKhachDoan.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formManageLostStuff.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formPrintBill.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formThanhToanDatPhong.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.LoginForm.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.QLNguoiDung.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.VIEW._formHome.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3._mainForm.resources
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.exe.licenses
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\Asus\OneDrive\Desktop\PBL\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\DropMenu.pdb
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\DropMenu.dll.config
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\RJTextBox.pdb
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\bin\Debug\Room.pdb
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formDSKH.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formBaoCaoKH.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formChangePass.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formKhachDoan.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formManageLostStuff.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formPrintBill.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.formThanhToanDatPhong.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.LoginForm.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.QLNguoiDung.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.VIEW._formHome.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3._mainForm.resources
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.exe.licenses
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\PBL3\pbl3-quan-li-khach-san\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\DropMenu.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\DropMenu.dll.config
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\RJTextBox.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\bin\Debug\Room.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.formDSKH.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.formBaoCaoKH.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.formChangePass.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.formManageLostStuff.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.formPrintBill.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.formThanhToanDatPhong.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.LoginForm.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.QLNguoiDung.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.VIEW._formHome.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3._mainForm.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.exe.licenses
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.formDSKH.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.formBaoCaoKH.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.formChangePass.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.formManageLostStuff.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.formPrintBill.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.formThanhToanDatPhong.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.VIEW.formThuePhongcs.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.LoginForm.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.QLNguoiDung.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.VIEW._formHome.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3._mainForm.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.exe.licenses
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\DropMenu.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\DropMenu.dll.config
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\RJTextBox.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\bin\Debug\Room.pdb
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.VIEW.formTimeLine.resources
+C:\Users\Asus\OneDrive\Desktop\PBLVersion2\PBL3\PBL3\PBL3\PBL3\obj\Debug\PBL3.VIEW.formChonKhachHang.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\DropMenu.pdb
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\DropMenu.dll.config
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\RJTextBox.pdb
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\bin\Debug\Room.pdb
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.VIEW.formChonKhachHang.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.formDSKH.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.formBaoCaoKH.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.formChangePass.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.formManageLostStuff.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.formPrintBill.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.formThanhToanDatPhong.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.VIEW.formThuePhongcs.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.VIEW.formTimeLine.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.LoginForm.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.QLNguoiDung.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.VIEW._formHome.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3._mainForm.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.exe.licenses
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.VIEW.formQLHoaDon.resources
+D:\PBL3\PBL3_riu\PBL3-QLKS\PBL3\PBL3\obj\Debug\PBL3.VIEW.formThanhToanHoaDon.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formChonKhachHang.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formDSKH.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formBaoCaoKH.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formChangePass.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formManageLostStuff.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formPrintBill.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formQLHoaDon.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formThanhToanDatPhong.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formThanhToanHoaDon.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formThuePhongcs.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formTimeLine.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.LoginForm.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.QLNguoiDung.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW._formHome.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3._mainForm.resources
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.exe.licenses
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\DropMenu.pdb
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\DropMenu.dll.config
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\RJTextBox.pdb
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\Room.pdb
+C:\Users\vinhn\Downloads\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formChonKhachHang.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formDSKH.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formBaoCaoKH.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formChangePass.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formManageLostStuff.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.formPrintBill.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formQLHoaDon.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formThuePhongcs.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formTimeLine.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.LoginForm.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.QLNguoiDung.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW._formHome.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3._mainForm.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.exe.licenses
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\DropMenu.pdb
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\DropMenu.dll.config
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\RJTextBox.pdb
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\bin\Debug\Room.pdb
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formTraPhong.resources
+C:\Users\Asus\OneDrive\Desktop\Pbl ver5\PBL3-QLKS-main\PBL3-QLKS-main\PBL3\PBL3\obj\Debug\PBL3.VIEW.formDatPhong.resources
